@@ -1,0 +1,5 @@
+Reemplazando esta cadena 
+Agregamos una linea despues de esta
+Cambiaremos esta linea
+Borramos esta linea
+Agregamos una linea antes de esta
